@@ -17,6 +17,9 @@
 #*.dll
 *.pdb
 
+# Build files
+Binaries/Win64/*
+
 # Fortran module files
 *.mod
 
