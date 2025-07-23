@@ -2942,6 +2942,26 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/TIGameTelemetry/Binaries/Win64/UnrealEditor-TIGameTelemetry.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/TIGameTelemetry/Binaries/Win64/UnrealEditor-TIGameTelemetry.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/TIGameTelemetry/Binaries/Win64/UnrealEditor-TIGameTelemetryEditorUI.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/TIGameTelemetry/Binaries/Win64/UnrealEditor-TIGameTelemetryEditorUI.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/TIGameTelemetry/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Media/AndroidMedia/Binaries/Win64/UnrealEditor-AndroidMediaEditor.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -26476,6 +26496,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/TIGameTelemetry/TIGameTelemetry.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Media/AndroidMedia/AndroidMedia.uplugin",
 			"Type": "UFS"
 		},
@@ -26884,6 +26908,7 @@
 		"StudioTelemetry",
 		"SubversionSourceControl",
 		"Synthesis",
+		"TIGameTelemetry",
 		"Takes",
 		"TcpMessaging",
 		"TemplateSequence",
