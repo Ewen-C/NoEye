@@ -11,21 +11,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55ebbef1-4d06-49de-ac7c-b5473abe7d41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NoEye/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NoEye/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NoEye/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NoEye/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vsconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/NoEye.Target.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/NoEye/NoEye.Build.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/NoEye/NoEye.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/NoEye/NoEye.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/NoEye/TestActor.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/NoEye/TestActor.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/NoEyeEditor.Target.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NoEye.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/NoEye.uproject" afterDir="false" />
-    </list>
+    <list default="true" id="55ebbef1-4d06-49de-ac7c-b5473abe7d41" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -500,6 +486,7 @@
       <workItem from="1743415563378" duration="739000" />
       <workItem from="1743416497166" duration="1829000" />
       <workItem from="1743418402395" duration="77000" />
+      <workItem from="1753350485026" duration="1380000" />
     </task>
     <servers />
   </component>
