@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\cours\\7_ican_2\\_pfe\\noeye\\plugins\\disableviewportrendering\\disablerendering\\source\\disablerendering\\private\\disablerendering.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\cours\\7_ican_2\\_pfe\\noeye\\intermediate\\build\\win64\\x64\\noeyeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "d:\\cours\\7_ican_2\\_pfe\\noeye\\plugins\\disableviewportrendering\\disablerendering\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\disablerendering\\definitions.disablerendering.h",
+            "d:\\cours\\7_ican_2\\_pfe\\noeye\\plugins\\disableviewportrendering\\disablerendering\\source\\disablerendering\\public\\disablerendering.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -29,6 +29,10 @@
 			"Name": "TIGameTelemetry",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/a182c3fe79414d0088cc4e5c53491323"
+		},
+		{
+			"Name": "DisableRendering",
+			"Enabled": true
 		}
 	]
 }

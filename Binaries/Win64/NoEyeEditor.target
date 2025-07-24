@@ -34,6 +34,18 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(ProjectDir)/Plugins/DisableViewportRendering/DisableRendering/Binaries/Win64/UnrealEditor-DisableRendering.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/DisableViewportRendering/DisableRendering/Binaries/Win64/UnrealEditor-DisableRendering.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/DisableViewportRendering/DisableRendering/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(ProjectDir)/Plugins/SteamAudio/Binaries/Win64/UnrealEditor-SteamAudio.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -3705,6 +3717,10 @@
 	"RuntimeDependencies": [
 		{
 			"Path": "$(ProjectDir)/NoEye.uproject",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/DisableViewportRendering/DisableRendering/DisableRendering.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -26812,6 +26828,7 @@
 		"DataValidation",
 		"Dataflow",
 		"DatasmithContent",
+		"DisableRendering",
 		"DumpGPUServices",
 		"EditorDebugTools",
 		"EditorScriptingUtilities",
