@@ -32,7 +32,7 @@
 		},
 		{
 			"Name": "DisableRendering",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
