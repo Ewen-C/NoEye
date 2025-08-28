@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\projets\\noeye\\plugins\\disableviewportrendering\\disablerendering\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\disablerendering\\module.disablerendering.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\projets\\noeye\\intermediate\\build\\win64\\x64\\noeyeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\projets\\noeye\\plugins\\disableviewportrendering\\disablerendering\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\disablerendering\\definitions.disablerendering.h",
+            "c:\\projets\\noeye\\plugins\\disableviewportrendering\\disablerendering\\intermediate\\build\\win64\\unrealeditor\\inc\\disablerendering\\uht\\disablerendering.init.gen.cpp",
+            "c:\\projets\\noeye\\plugins\\disableviewportrendering\\disablerendering\\intermediate\\build\\win64\\unrealeditor\\inc\\disablerendering\\uht\\disablerenderingbplibrary.gen.cpp",
+            "c:\\projets\\noeye\\plugins\\disableviewportrendering\\disablerendering\\source\\disablerendering\\public\\disablerenderingbplibrary.h",
+            "c:\\projets\\noeye\\plugins\\disableviewportrendering\\disablerendering\\intermediate\\build\\win64\\unrealeditor\\inc\\disablerendering\\uht\\disablerenderingbplibrary.generated.h",
+            "c:\\projets\\noeye\\plugins\\disableviewportrendering\\disablerendering\\source\\disablerendering\\private\\disablerendering.cpp",
+            "c:\\projets\\noeye\\plugins\\disableviewportrendering\\disablerendering\\source\\disablerendering\\public\\disablerendering.h",
+            "c:\\projets\\noeye\\plugins\\disableviewportrendering\\disablerendering\\source\\disablerendering\\private\\disablerenderingbplibrary.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,5 +1,11 @@
 {
 	"RemapUnityFiles": 
 	{
+		"Module.DisableRendering.cpp.obj": [
+			"DisableRendering.init.gen.cpp.obj",
+			"DisableRenderingBPLibrary.gen.cpp.obj",
+			"DisableRendering.cpp.obj",
+			"DisableRenderingBPLibrary.cpp.obj"
+		]
 	}
 }
